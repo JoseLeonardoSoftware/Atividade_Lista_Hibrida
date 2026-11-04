@@ -18,7 +18,7 @@ Aplicação educacional em Python + Streamlit para a atividade extra descrita no
 
 ```text
 projeto_lista_hibrida/
-├── app.py
+├── atividade_extra.py
 ├── lista_hibrida.py
 ├── requirements.txt
 ├── README.md
