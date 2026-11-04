@@ -126,17 +126,3 @@ Use este projeto como material de estudo: execute os testes, faça inserções e
 abra `lista_hibrida.py` e pratique explicar cada método com suas próprias palavras.
 Não afirme que publicou no Streamlit até ter realizado o deploy e testado o link.
 
-## Checklist em relação ao enunciado
-
-- [x] 1. Região inicial reprodutível com semente.
-- [x] 2. Inserção no final da cauda e rejeição de repetidas.
-- [x] 3. Busca binária seguida de busca sequencial.
-- [x] 4. Iterações por busca, total e local encontrado.
-- [x] 5. Reorganização automática na décima inserção e cauda vazia.
-- [x] 6. Testes automatizados.
-- [x] 7. Aplicação Streamlit, componentes destacados e explicação dos trechos.
-- [ ] 8. Publicar no Streamlit Cloud, demonstrar presencialmente e responder ao professor.
-- [ ] 9. Cada integrante estudar e explicar individualmente.
-
-Os itens 8 e 9 dependem de ações e da apresentação dos alunos; o código não consegue
-substituir essas etapas.
