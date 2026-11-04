@@ -119,10 +119,4 @@ A cauda é ordenada e depois intercalada com a região principal. A intercalaç�
 percorre as duas sequências ordenadas e escolhe, a cada passo, o menor próximo
 elemento. Ao final, a cauda é esvaziada.
 
-### Observação para a apresentação
-
-O PDF exige demonstração presencial e que cada aluno explique o código sem usar IA.
-Use este projeto como material de estudo: execute os testes, faça inserções e buscas,
-abra `lista_hibrida.py` e pratique explicar cada método com suas próprias palavras.
-Não afirme que publicou no Streamlit até ter realizado o deploy e testado o link.
 
