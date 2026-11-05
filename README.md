@@ -67,19 +67,6 @@ python -m unittest discover -s tests -v
 Os testes verificam geração, reprodutibilidade, unicidade, inserção, buscas,
 contagem, reorganização na décima inserção e preservação dos dados.
 
-## Publicar gratuitamente no Streamlit Community Cloud
-
-1. Crie um repositório público no GitHub.
-2. Envie todos os arquivos desta pasta para a raiz do repositório.
-3. Acesse https://share.streamlit.io/ e entre com sua conta GitHub.
-4. Selecione **Create app**.
-5. Escolha o repositório, a branch e o arquivo principal `app.py`.
-6. Clique em **Deploy**.
-7. Aguarde a instalação das dependências e a publicação.
-8. Copie o link público gerado e teste-o em uma janela anônima.
-
-O endereço público só existe depois que você realizar a publicação na sua conta.
-Não é possível criar esse link sem acesso autorizado ao seu GitHub/Streamlit.
 
 ## Componentes Streamlit usados
 
